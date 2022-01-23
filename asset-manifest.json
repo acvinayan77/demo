@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.f0c6e300.css",
+    "main.js": "/demo/static/js/main.873e26ca.js",
+    "index.html": "/demo/index.html",
+    "static/media/wifi.svg": "/demo/static/media/wifi.406174f7778dee4416438c046501bc55.svg",
+    "main.f0c6e300.css.map": "/demo/static/css/main.f0c6e300.css.map",
+    "main.873e26ca.js.map": "/demo/static/js/main.873e26ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c6e300.css",
+    "static/js/main.873e26ca.js"
+  ]
+}
